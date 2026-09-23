@@ -4,14 +4,6 @@
 
 ---
 
-## 👥 Team
-
-| Field | Value |
-|---|---|
-| **Team Name** | clarion |
-| **Track** | AI |
-| **Team Lead** | Shrey Modi — 25dcs061@charusat.edu.in |
-| **Members** | Dhwani Padaliya (25dcs065@charusat.edu.in), Selvy Modi (25dcs060@charusat.edu.in), Krishna Mulchandani (25dcs062@charusat.edu.in) |
 
 ---
 
@@ -108,7 +100,6 @@ npm run dev
 | 📹 Demo Video | [Watch Demo Video](https://drive.google.com/file/d/1o-5r_pintNGiWSaPWSj-PgRZM2ysym0Z/view?usp=sharing) · [demo/demo-video-link.txt](demo/demo-video-link.txt) |
 | 🌐 Live Demo | [Launch Live Application](https://bob-ai-hackathon-clarion-no6h-git-main-dhwani11.vercel.app/) · [demo/live-demo-url.txt](demo/live-demo-url.txt) |
 | 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pptx](presentation/slides.pptx) |
 
 ---
 
